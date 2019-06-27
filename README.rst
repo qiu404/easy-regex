@@ -8,10 +8,11 @@ easy-regex
 Functions
 --------------------------------------------------
 
+from easy_regex import emials dates
 
-**date.find (text string)** : return match list
+**dates.find (text string)** : return match list
 `````````````````````````````````````````````````````````````````
-**email.find (text string)** : return match list
+**emails.find (text string)** : return match list
 ````````````````````````````````````````````````````````````````````````````````````````````````````````
-**email.judge(text string)** : return True / False 
+**emails.judge(text string)** : return True / False 
 ``````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````

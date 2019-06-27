@@ -1,6 +1,9 @@
 MANIFEST.in
 README.rst
 setup.py
+easy_regex/__init__.py
+easy_regex/dates.py
+easy_regex/email.py
 easy_regex.egg-info/PKG-INFO
 easy_regex.egg-info/SOURCES.txt
 easy_regex.egg-info/dependency_links.txt
